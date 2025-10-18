@@ -137,3 +137,204 @@
         raise web.HTTPError(404, "Kernel does not exist: %s" % kernel_id)
     tornado.web.HTTPError: HTTP 404: Not Found (Kernel does not exist: ce2c092f-f394-4b03-98ba-df9da361be68)
 [W 2025-10-18 11:46:28.946 ServerApp] 404 GET /api/kernels/ce2c092f-f394-4b03-98ba-df9da361be68?1760798788932 (d83dba3d5f47438d8a33fc3bbb8e9bfa@192.168.241.22) 1.04ms referer=https://jupyter.pjc.mt.gov.br/notebooks/PEFT-LoRA/peft-lora.ipynb
+[I 2025-10-18 11:54:51.695 ServerApp] Kernel started: 8c9a5913-4591-4dfa-bc32-dc336c07df4c
+[I 2025-10-18 11:54:52.059 ServerApp] Connecting to kernel 8c9a5913-4591-4dfa-bc32-dc336c07df4c.
+[W 2025-10-18 11:54:52.061 ServerApp] The websocket_ping_timeout (90000) cannot be longer than the websocket_ping_interval (30000).
+    Setting websocket_ping_timeout=30000
+[I 2025-10-18 11:54:52.108 ServerApp] Starting buffering for 8c9a5913-4591-4dfa-bc32-dc336c07df4c:fb2cc8ca-3983-488c-99c1-b2f9e54f3946
+[I 2025-10-18 11:54:52.135 ServerApp] Connecting to kernel 8c9a5913-4591-4dfa-bc32-dc336c07df4c.
+[I 2025-10-18 11:54:52.218 ServerApp] Connecting to kernel 8c9a5913-4591-4dfa-bc32-dc336c07df4c.
+[I 2025-10-18 11:54:54.812 ServerApp] Connecting to kernel 8c9a5913-4591-4dfa-bc32-dc336c07df4c.
+[I 2025-10-18 11:56:51.588 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 11:58:51.699 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:00:51.799 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:02:51.903 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:04:52.015 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:06:04.116 ServerApp] Kernel interrupted: 8c9a5913-4591-4dfa-bc32-dc336c07df4c
+[I 2025-10-18 12:06:14.510 ServerApp] Kernel started: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:06:14.512 ServerApp] Kernel shutdown: 8c9a5913-4591-4dfa-bc32-dc336c07df4c
+[I 2025-10-18 12:06:14.876 ServerApp] Connecting to kernel 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487.
+[I 2025-10-18 12:06:53.097 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:08:53.193 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:12:53.607 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:15:44.025 ServerApp] Connecting to kernel 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487.
+[W 2025-10-18 12:15:44.046 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2025-10-18 12:15:44.266 ServerApp] 404 GET /api/contents/ft_kd?content=0&hash=0&1760800544225 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 1.07ms referer=https://jupyter.pjc.mt.gov.br/doc/tree/PEFT-PT/peft-pt.ipynb
+[W 2025-10-18 12:15:44.266 ServerApp] 404 GET /api/contents/ft_kd?content=0&hash=0&1760800544225 (192.168.241.22): No such file or directory: ft_kd
+[W 2025-10-18 12:15:44.267 ServerApp] 404 GET /api/contents/ft_kd/gmn_kd_qwen3b.ipynb?content=0&hash=0&1760800544225 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 0.68ms referer=https://jupyter.pjc.mt.gov.br/doc/tree/PEFT-PT/peft-pt.ipynb
+[W 2025-10-18 12:15:44.267 ServerApp] 404 GET /api/contents/ft_kd/gmn_kd_qwen3b.ipynb?content=0&hash=0&1760800544225 (192.168.241.22): No such file or directory: ft_kd/gmn_kd_qwen3b.ipynb
+[I 2025-10-18 12:15:45.726 ServerApp] Connecting to kernel 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487.
+[I 2025-10-18 12:17:44.388 ServerApp] Kernel interrupted: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:17:45.780 ServerApp] Kernel interrupted: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:17:45.970 ServerApp] Kernel interrupted: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:17:46.154 ServerApp] Kernel interrupted: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:17:57.726 ServerApp] Kernel shutdown: 5ce4a01a-2d1c-46e7-8332-cb4fccb4d487
+[I 2025-10-18 12:18:33.225 ServerApp] Kernel started: 3b40394d-94b1-4332-97ff-3970f0734799
+[I 2025-10-18 12:18:33.654 ServerApp] Connecting to kernel 3b40394d-94b1-4332-97ff-3970f0734799.
+[I 2025-10-18 12:18:41.437 ServerApp] Kernel started: d1a54a90-10e7-4348-bb85-0f4984c72b7c
+[I 2025-10-18 12:18:41.439 ServerApp] Kernel shutdown: 3b40394d-94b1-4332-97ff-3970f0734799
+[I 2025-10-18 12:18:41.788 ServerApp] Connecting to kernel d1a54a90-10e7-4348-bb85-0f4984c72b7c.
+[I 2025-10-18 12:18:44.949 ServerApp] Kernel interrupted: d1a54a90-10e7-4348-bb85-0f4984c72b7c
+[I 2025-10-18 12:18:58.946 ServerApp] Starting buffering for d1a54a90-10e7-4348-bb85-0f4984c72b7c:ba69e9b3-279f-4436-ac43-0906e249fcba
+[I 2025-10-18 12:18:59.038 ServerApp] Connecting to kernel d1a54a90-10e7-4348-bb85-0f4984c72b7c.
+[I 2025-10-18 12:18:59.038 ServerApp] Restoring connection for d1a54a90-10e7-4348-bb85-0f4984c72b7c:ba69e9b3-279f-4436-ac43-0906e249fcba
+[I 2025-10-18 12:18:59.065 ServerApp] Starting buffering for d1a54a90-10e7-4348-bb85-0f4984c72b7c:ba69e9b3-279f-4436-ac43-0906e249fcba
+[I 2025-10-18 12:18:59.800 ServerApp] Connecting to kernel d1a54a90-10e7-4348-bb85-0f4984c72b7c.
+[I 2025-10-18 12:18:59.847 ServerApp] Starting buffering for d1a54a90-10e7-4348-bb85-0f4984c72b7c:7f9ad351-9734-4636-a51a-da1557092078
+[W 2025-10-18 12:18:59.856 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2025-10-18 12:19:01.540 ServerApp] Connecting to kernel d1a54a90-10e7-4348-bb85-0f4984c72b7c.
+[I 2025-10-18 12:19:05.689 ServerApp] Kernel shutdown: d1a54a90-10e7-4348-bb85-0f4984c72b7c
+[I 2025-10-18 12:19:13.271 ServerApp] Kernel started: 95788a0f-a698-49a1-af30-30bf6099caea
+[I 2025-10-18 12:19:13.650 ServerApp] Connecting to kernel 95788a0f-a698-49a1-af30-30bf6099caea.
+[I 2025-10-18 12:21:01.397 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:23:01.548 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 12:25:01.906 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 14:17:02.090 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 14:19:02.409 ServerApp] Saving file at /PEFT-PT/peft-pt.ipynb
+[I 2025-10-18 14:19:34.829 ServerApp] Kernel shutdown: 95788a0f-a698-49a1-af30-30bf6099caea
+[I 2025-10-18 14:19:42.846 ServerApp] Creating new notebook in /PEFT-PT
+[I 2025-10-18 14:19:50.490 ServerApp] Kernel started: 61cff716-784e-4736-9222-2cd0d03b6694
+[I 2025-10-18 14:19:50.848 ServerApp] Connecting to kernel 61cff716-784e-4736-9222-2cd0d03b6694.
+[I 2025-10-18 14:19:50.899 ServerApp] Starting buffering for 61cff716-784e-4736-9222-2cd0d03b6694:8a24be22-e482-40db-a853-440e5c9b1e9c
+[I 2025-10-18 14:19:50.924 ServerApp] Connecting to kernel 61cff716-784e-4736-9222-2cd0d03b6694.
+[I 2025-10-18 14:19:50.995 ServerApp] Connecting to kernel 61cff716-784e-4736-9222-2cd0d03b6694.
+[I 2025-10-18 14:19:57.692 ServerApp] Starting buffering for 61cff716-784e-4736-9222-2cd0d03b6694:30ec24a1-b0e8-4df7-bbee-8622e1bb7b60
+[I 2025-10-18 14:20:02.078 ServerApp] Kernel shutdown: 61cff716-784e-4736-9222-2cd0d03b6694
+[W 2025-10-18 14:20:22.023 ServerApp] delete /PEFT-PT/Untitled.ipynb
+[I 2025-10-18 14:20:25.407 ServerApp] Copying 'PEFT-PT/peft-pt.ipynb' to '/PEFT-PT'
+[I 2025-10-18 14:21:35.751 ServerApp] Kernel started: f65cccaa-1e71-474f-bbca-b3760f5d87c6
+[I 2025-10-18 14:21:36.192 ServerApp] Connecting to kernel f65cccaa-1e71-474f-bbca-b3760f5d87c6.
+[I 2025-10-18 14:21:36.243 ServerApp] Starting buffering for f65cccaa-1e71-474f-bbca-b3760f5d87c6:a5d0ffaa-e438-4b29-b358-2c8a5afb4c17
+[I 2025-10-18 14:21:36.268 ServerApp] Connecting to kernel f65cccaa-1e71-474f-bbca-b3760f5d87c6.
+[I 2025-10-18 14:21:36.353 ServerApp] Connecting to kernel f65cccaa-1e71-474f-bbca-b3760f5d87c6.
+[I 2025-10-18 14:22:11.193 ServerApp] Connecting to kernel f65cccaa-1e71-474f-bbca-b3760f5d87c6.
+[I 2025-10-18 14:23:35.593 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:25:35.713 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:27:35.857 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:29:28.108 ServerApp] Kernel interrupted: f65cccaa-1e71-474f-bbca-b3760f5d87c6
+[I 2025-10-18 14:29:34.645 ServerApp] Kernel started: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+[I 2025-10-18 14:29:34.647 ServerApp] Kernel shutdown: f65cccaa-1e71-474f-bbca-b3760f5d87c6
+[I 2025-10-18 14:29:35.018 ServerApp] Connecting to kernel 3eaef20b-06e6-4e53-97ef-5f21dfc2f100.
+[I 2025-10-18 14:29:35.980 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+  [2m2025-10-18T17:30:16.946163Z[0m [31mERROR[0m  [31mPython exception updating progress:, error: PyErr { type: <class 'LookupError'>, value: LookupError(<ContextVar name='shell_parent' at 0x7ff4b6de6c00>), traceback: Some(<traceback object at 0x7ff3bff5f740>) }, [1;31mcaller[0m[31m: "src/progress_update.rs:313"[0m
+    [2;3mat[0m /home/runner/work/xet-core/xet-core/error_printer/src/lib.rs:28
+
+[I 2025-10-18 14:31:36.089 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:31:38.096 ServerApp] Kernel interrupted: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+Cancellation requested; stopping current tasks.
+[I 2025-10-18 14:31:42.527 ServerApp] Kernel interrupted: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+[I 2025-10-18 14:33:36.197 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:33:40.364 ServerApp] Kernel interrupted: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+[I 2025-10-18 14:33:49.509 ServerApp] Kernel interrupted: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+[I 2025-10-18 14:34:00.538 ServerApp] Kernel shutdown: 3eaef20b-06e6-4e53-97ef-5f21dfc2f100
+[I 2025-10-18 14:34:09.856 ServerApp] Kernel started: 04763547-8a33-41f4-9b48-cf5d032f0b73
+[I 2025-10-18 14:34:10.298 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 14:34:13.365 ServerApp] Kernel interrupted: 04763547-8a33-41f4-9b48-cf5d032f0b73
+[I 2025-10-18 14:34:26.185 ServerApp] Starting buffering for 04763547-8a33-41f4-9b48-cf5d032f0b73:e35bfb89-4d71-4941-9404-c9c838f89e90
+[I 2025-10-18 14:34:26.263 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 14:34:26.263 ServerApp] Restoring connection for 04763547-8a33-41f4-9b48-cf5d032f0b73:e35bfb89-4d71-4941-9404-c9c838f89e90
+[I 2025-10-18 14:34:26.285 ServerApp] Starting buffering for 04763547-8a33-41f4-9b48-cf5d032f0b73:e35bfb89-4d71-4941-9404-c9c838f89e90
+[I 2025-10-18 14:34:27.231 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 14:34:27.438 ServerApp] Starting buffering for 04763547-8a33-41f4-9b48-cf5d032f0b73:c0c8e16c-cbe9-49cb-861b-2fce2c12b8b6
+[I 2025-10-18 14:34:27.677 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+  [2m2025-10-18T17:36:01.782643Z[0m [31mERROR[0m  [31mPython exception updating progress:, error: PyErr { type: <class 'LookupError'>, value: LookupError(<ContextVar name='shell_parent' at 0x7f8eac246480>), traceback: Some(<traceback object at 0x7f8da83d7b80>) }, [1;31mcaller[0m[31m: "src/progress_update.rs:313"[0m
+    [2;3mat[0m /home/runner/work/xet-core/xet-core/error_printer/src/lib.rs:28
+
+[I 2025-10-18 14:36:27.781 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:38:27.920 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:40:28.058 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:44:28.200 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 14:49:05.876 ServerApp] Creating new directory in 
+[I 2025-10-18 14:55:40.425 ServerApp] Creating new notebook in /PEFT-QLoRA-Axolotl
+[I 2025-10-18 14:55:41.684 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 14:55:50.486 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 14:58:07.727 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 14:59:38.842 ServerApp] Creating new file in /PEFT-QLoRA-Axolotl
+[I 2025-10-18 14:59:54.322 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 15:00:08.702 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 15:01:54.409 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 15:02:47.789 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 15:04:08.906 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 15:06:09.001 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 15:08:04.373 ServerApp] Kernel interrupted: 04763547-8a33-41f4-9b48-cf5d032f0b73
+Cancellation requested; stopping current tasks.
+[I 2025-10-18 15:08:05.349 ServerApp] Kernel interrupted: 04763547-8a33-41f4-9b48-cf5d032f0b73
+[I 2025-10-18 15:08:10.103 ServerApp] Kernel restarted: 04763547-8a33-41f4-9b48-cf5d032f0b73
+[I 2025-10-18 15:08:10.128 ServerApp] Starting buffering for 04763547-8a33-41f4-9b48-cf5d032f0b73:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:08:10.194 ServerApp] Connecting to kernel 04763547-8a33-41f4-9b48-cf5d032f0b73.
+[I 2025-10-18 15:08:10.194 ServerApp] Restoring connection for 04763547-8a33-41f4-9b48-cf5d032f0b73:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:08:36.297 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:10:38.613 ServerApp] Kernel started: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:10:38.615 ServerApp] Kernel shutdown: 04763547-8a33-41f4-9b48-cf5d032f0b73
+[I 2025-10-18 15:10:39.018 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:12:36.449 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:14:36.603 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:16:36.741 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:18:36.940 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:22:21.433 ServerApp] Kernel interrupted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:22:25.486 ServerApp] Kernel restarted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:22:25.510 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:22:25.584 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:22:25.584 ServerApp] Restoring connection for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:22:37.094 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:24:37.243 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:26:27.407 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:26:37.395 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:28:37.549 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+  [2m2025-10-18T18:29:19.438150Z[0m [31mERROR[0m  [31mPython exception updating progress:, error: PyErr { type: <class 'LookupError'>, value: LookupError(<ContextVar name='shell_parent' at 0x7ff20c1d67f0>), traceback: Some(<traceback object at 0x7ff1020edb40>) }, [1;31mcaller[0m[31m: "src/progress_update.rs:313"[0m
+    [2;3mat[0m /home/runner/work/xet-core/xet-core/error_printer/src/lib.rs:28
+
+[I 2025-10-18 15:30:37.709 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:31:02.040 ServerApp] Kernel interrupted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+Cancellation requested; stopping current tasks.
+[E 2025-10-18 15:31:06.280 ServerApp] Uncaught exception POST /api/kernels/e1404771-63a0-436c-a7e5-d44e6258a1e8/interrupt?1760812266261 (192.168.241.22)
+    HTTPServerRequest(protocol='http', host='jupyter.pjc.mt.gov.br', method='POST', uri='/api/kernels/e1404771-63a0-436c-a7e5-d44e6258a1e8/interrupt?1760812266261', version='HTTP/1.1', remote_ip='192.168.241.22')
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 395, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[W 2025-10-18 15:31:06.281 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/kernels/handlers.py", line 97, in post
+        await ensure_async(km.interrupt_kernel(kernel_id))  # type:ignore[func-returns-value]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_client/multikernelmanager.py", line 395, in interrupt_kernel
+        raise RuntimeError(msg)
+    RuntimeError: Kernel is in a pending state. Cannot interrupt.
+[E 2025-10-18 15:31:06.281 ServerApp] {
+      "Host": "jupyter.pjc.mt.gov.br",
+      "Accept": "*/*",
+      "Referer": "https://jupyter.pjc.mt.gov.br/notebooks/PEFT-PT/peft-pt-2.ipynb",
+      "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:143.0) Gecko/20100101 Firefox/143.0"
+    }
+[E 2025-10-18 15:31:06.282 ServerApp] 500 POST /api/kernels/e1404771-63a0-436c-a7e5-d44e6258a1e8/interrupt?1760812266261 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 2.09ms referer=https://jupyter.pjc.mt.gov.br/notebooks/PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:31:07.124 ServerApp] Kernel restarted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:31:07.154 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:31:07.210 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:31:07.210 ServerApp] Restoring connection for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:31:08.389 ServerApp] Kernel restarted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:31:08.419 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:31:08.477 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:31:08.477 ServerApp] Restoring connection for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+  [2m2025-10-18T18:31:29.396053Z[0m [31mERROR[0m  [31mPython exception updating progress:, error: PyErr { type: <class 'LookupError'>, value: LookupError(<ContextVar name='shell_parent' at 0x7f953f49a840>), traceback: Some(<traceback object at 0x7f9459ad32c0>) }, [1;31mcaller[0m[31m: "src/progress_update.rs:313"[0m
+    [2;3mat[0m /home/runner/work/xet-core/xet-core/error_printer/src/lib.rs:28
+
+[I 2025-10-18 15:32:18.446 ServerApp] Kernel interrupted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+Cancellation requested; stopping current tasks.
+[I 2025-10-18 15:32:26.447 ServerApp] Kernel restarted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 15:32:26.477 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:32:26.533 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 15:32:26.533 ServerApp] Restoring connection for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 15:32:37.917 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:33:58.230 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:35:58.684 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:37:58.834 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
