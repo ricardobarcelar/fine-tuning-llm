@@ -1,0 +1,18 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "Qwen/Qwen2.5-0.5B",
+  "inference_mode": true,
+  "modules_to_save": null,
+  "num_attention_heads": 14,
+  "num_layers": 24,
+  "num_transformer_submodules": 1,
+  "num_virtual_tokens": 20,
+  "peft_type": "PROMPT_TUNING",
+  "prompt_tuning_init": "TEXT",
+  "prompt_tuning_init_text": "Classifique a \u00e1rea do Direito do texto a seguir.",
+  "revision": null,
+  "task_type": "CAUSAL_LM",
+  "token_dim": 896,
+  "tokenizer_kwargs": null,
+  "tokenizer_name_or_path": "Qwen/Qwen2.5-0.5B"
+}

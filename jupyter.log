@@ -338,3 +338,264 @@ Cancellation requested; stopping current tasks.
 [I 2025-10-18 15:33:58.230 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
 [I 2025-10-18 15:35:58.684 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
 [I 2025-10-18 15:37:58.834 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 15:55:12.976 ServerApp] 302 GET / (@192.168.241.22) 0.38ms
+[I 2025-10-18 15:55:13.852 JupyterNotebookApp] 302 GET /tree? (@192.168.241.22) 0.61ms
+[I 2025-10-18 15:55:21.500 ServerApp] 302 GET / (@192.168.241.22) 0.44ms
+[I 2025-10-18 15:55:22.738 JupyterNotebookApp] 302 GET /tree? (@192.168.241.22) 0.56ms
+[I 2025-10-18 15:57:45.676 ServerApp] User b1dcac89198a4c85b91132e2077a52e9 logged in.
+[I 2025-10-18 15:57:45.677 ServerApp] 302 POST /login?next=%2Ftree%3F (b1dcac89198a4c85b91132e2077a52e9@192.168.241.22) 33.05ms
+[I 2025-10-18 15:58:41.262 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 18:12:31.850 ServerApp] Kernel interrupted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 18:12:32.886 ServerApp] Kernel interrupted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 18:12:35.923 ServerApp] Kernel restarted: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 18:12:35.954 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 18:12:36.006 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 18:12:36.006 ServerApp] Restoring connection for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 18:13:59.190 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 18:14:55.407 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 18:14:58.359 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:666ea692-fe54-4de1-8104-1778e617dbd7
+[I 2025-10-18 18:15:36.189 ServerApp] Connecting to kernel e1404771-63a0-436c-a7e5-d44e6258a1e8.
+[I 2025-10-18 18:15:36.260 ServerApp] Starting buffering for e1404771-63a0-436c-a7e5-d44e6258a1e8:e2ea928e-98fb-441f-9477-5bd2bd4279aa
+[I 2025-10-18 18:16:15.836 ServerApp] Kernel shutdown: e1404771-63a0-436c-a7e5-d44e6258a1e8
+[I 2025-10-18 18:16:30.676 ServerApp] Copying 'PEFT-LoRA/dataset_instrucoes_juridico.jsonl' to '/PEFT-QLoRA-Axolotl'
+[I 2025-10-18 18:18:06.389 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 18:20:12.626 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 18:28:13.015 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 18:30:13.123 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 18:34:13.234 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 18:42:58.511 ServerApp] Kernel started: d9b29c4a-5bbf-4787-88e1-d3d74613738d
+[I 2025-10-18 18:42:58.890 ServerApp] Connecting to kernel d9b29c4a-5bbf-4787-88e1-d3d74613738d.
+[I 2025-10-18 18:42:58.951 ServerApp] Starting buffering for d9b29c4a-5bbf-4787-88e1-d3d74613738d:6c6c6949-157d-43bb-aeed-3be628d95af6
+[I 2025-10-18 18:42:58.985 ServerApp] Connecting to kernel d9b29c4a-5bbf-4787-88e1-d3d74613738d.
+[I 2025-10-18 18:42:59.064 ServerApp] Connecting to kernel d9b29c4a-5bbf-4787-88e1-d3d74613738d.
+[I 2025-10-18 18:43:00.149 ServerApp] Connecting to kernel d9b29c4a-5bbf-4787-88e1-d3d74613738d.
+[I 2025-10-18 18:52:42.886 ServerApp] Kernel started: 1c95112a-9733-4ade-be8a-3134cf6205e7
+[I 2025-10-18 18:52:42.888 ServerApp] Kernel shutdown: d9b29c4a-5bbf-4787-88e1-d3d74613738d
+[I 2025-10-18 18:52:43.232 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 18:52:59.148 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 18:55:00.002 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 18:57:00.729 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:01:01.857 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:01:17.938 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[W 2025-10-18 19:01:40.216 ServerApp] 400 GET /api/contents/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760824900184 (192.168.241.22): /home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded
+[W 2025-10-18 19:01:40.216 ServerApp] wrote error: '/home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 121: invalid continuation byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded)
+[W 2025-10-18 19:01:40.217 ServerApp] 400 GET /api/contents/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760824900184 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 2.31ms referer=https://jupyter.pjc.mt.gov.br/tree/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter
+[I 2025-10-18 19:01:40.887 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[W 2025-10-18 19:01:40.916 ServerApp] 400 GET /api/contents/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760824900909 (192.168.241.22): /home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded
+[W 2025-10-18 19:01:40.916 ServerApp] wrote error: '/home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xd7 in position 121: invalid continuation byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/ricardo/fine-tuning-llm/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors is not UTF-8 encoded)
+[W 2025-10-18 19:01:40.916 ServerApp] 400 GET /api/contents/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760824900909 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 2.27ms referer=https://jupyter.pjc.mt.gov.br/edit/PEFT-PT/modelo_juridico_prompt_tuning/prompt_adapter/adapter_model.safetensors
+[I 2025-10-18 19:03:02.038 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:05:02.488 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:07:02.646 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:09:02.802 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:11:02.953 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:13:01.076 ServerApp] Saving file at /PEFT-PT/peft-pt-2.ipynb
+[I 2025-10-18 19:19:42.381 ServerApp] Kernel interrupted: 1c95112a-9733-4ade-be8a-3134cf6205e7
+[I 2025-10-18 19:19:43.204 ServerApp] Kernel interrupted: 1c95112a-9733-4ade-be8a-3134cf6205e7
+[I 2025-10-18 19:19:44.933 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:ed14e262-7f49-461c-b9c3-4390c42e074e
+[I 2025-10-18 19:20:21.272 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 19:22:21.373 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 19:34:00.080 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 19:34:00.143 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:329bf5bb-1fd9-404d-85fb-1613a711af7e
+[I 2025-10-18 19:34:23.283 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:40:22.154 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 19:42:24.687 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:44:16.940 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:44:20.008 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:45:22.564 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 19:45:22.645 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:da25f066-6cd3-4ebb-877f-69578c7be4ed
+[I 2025-10-18 19:47:54.152 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 19:47:54.207 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:f89c960c-18aa-4beb-bcc6-f7d6ea979593
+[I 2025-10-18 19:48:29.185 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 19:48:29.241 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:fcafbb60-0853-4521-96ba-be60a87a512c
+[I 2025-10-18 19:52:17.418 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:52:30.223 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:54:30.323 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:58:30.894 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 19:58:57.579 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 20:02:58.358 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 20:04:28.128 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-18 20:04:37.807 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-18 20:04:37.998 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:76a93f8b-d5b4-4e75-9dd9-a65bc08615d5
+[I 2025-10-18 20:04:45.802 ServerApp] Kernel started: 2c4bcee4-c3d5-4f04-8b89-344d186ba833
+[I 2025-10-18 20:04:46.229 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-18 20:04:46.284 ServerApp] Starting buffering for 2c4bcee4-c3d5-4f04-8b89-344d186ba833:046b6ed4-90ab-45d6-8f98-788a163312ad
+[I 2025-10-18 20:04:46.307 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-18 20:04:46.383 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-18 20:05:15.661 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-18 20:05:33.823 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-18 20:06:03.061 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-18 20:06:38.842 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 00:50:36.476 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 00:50:36.551 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 00:50:36.613 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:212cbe2c-ae13-4205-b76e-261aaaf66cc1
+[I 2025-10-19 00:53:54.356 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/config_qlora.yml
+[I 2025-10-19 00:58:02.693 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 00:58:02.770 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 00:58:02.780 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:2482c408-0b31-4472-be0e-ff0c6d34a092
+[I 2025-10-19 00:58:10.720 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 00:58:10.776 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:6bee57a5-05da-4b34-8de2-02faf3203037
+[I 2025-10-19 00:58:10.803 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[W 2025-10-19 00:58:14.410 ServerApp] 400 GET /api/contents/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760846294370 (192.168.241.22): /home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded
+[W 2025-10-19 00:58:14.410 ServerApp] wrote error: '/home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded)
+[W 2025-10-19 00:58:14.411 ServerApp] 400 GET /api/contents/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760846294370 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 3.79ms referer=https://jupyter.pjc.mt.gov.br/tree/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31
+[I 2025-10-19 00:58:15.116 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[W 2025-10-19 00:58:15.145 ServerApp] 400 GET /api/contents/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760846295128 (192.168.241.22): /home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded
+[W 2025-10-19 00:58:15.145 ServerApp] wrote error: '/home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded'
+    Traceback (most recent call last):
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 562, in _read_file
+        (bcontent.decode("utf8"), "text", bcontent)
+    UnicodeDecodeError: 'utf-8' codec can't decode byte 0xff in position 0: invalid start byte
+    
+    The above exception was the direct cause of the following exception:
+    
+    Traceback (most recent call last):
+      File "/usr/local/lib64/python3.9/site-packages/tornado/web.py", line 1848, in _execute
+        result = await result
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/handlers.py", line 156, in get
+        model = await ensure_async(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_core/utils/__init__.py", line 197, in ensure_async
+        result = await obj
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 928, in get
+        model = await self._file_model(
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/filemanager.py", line 837, in _file_model
+        content, format, bytes_content = await self._read_file(os_path, format, raw=True)  # type: ignore[misc]
+      File "/usr/local/lib/python3.9/site-packages/jupyter_server/services/contents/fileio.py", line 571, in _read_file
+        raise HTTPError(
+    tornado.web.HTTPError: HTTP 400: bad format (/home/ricardo/fine-tuning-llm/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow is not UTF-8 encoded)
+[W 2025-10-19 00:58:15.146 ServerApp] 400 GET /api/contents/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow?type=file&content=1&hash=1&format=text&contentProviderId=undefined&1760846295128 (4e44c18e31e34792b64931a8b1f18873@192.168.241.22) 2.71ms referer=https://jupyter.pjc.mt.gov.br/edit/PEFT-QLoRA-Axolotl/last_run_prepared/d732893e332a5960b3b9fb2d38878e31/data-00003-of-00004.arrow
+[I 2025-10-19 00:58:15.194 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 00:58:15.199 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:019ea4ab-b1a8-4a04-9d02-e0aaff4c921a
+[I 2025-10-19 00:58:43.497 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 00:58:43.610 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 00:58:43.636 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:8d0e9288-7b0c-4aed-a828-698181a8c96c
+[I 2025-10-19 00:59:08.044 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 00:59:08.117 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 00:59:08.151 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:5416c745-1bfb-4b94-b103-2bc3f7baf743
+[I 2025-10-19 01:00:05.852 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:00:13.310 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 01:00:13.425 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 01:00:13.480 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:ee10fa93-fc92-4e43-a564-9015826325da
+[I 2025-10-19 01:00:13.639 ServerApp] Kernel started: 6320e992-0c15-4cb9-89df-9117283f988b
+[I 2025-10-19 01:00:14.095 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:00:14.143 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:c30913b1-1fd0-4369-b172-0e9ab7cc30d8
+[I 2025-10-19 01:00:14.166 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:00:14.257 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:00:25.132 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:68cca222-cb11-4fa5-97aa-db6ee805a28c
+[I 2025-10-19 01:00:30.859 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:00:30.920 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:3a6d2d1d-5bc6-45f6-b4ed-d9284f6c78b2
+[I 2025-10-19 01:01:03.957 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:01:04.010 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:63a58285-5bfd-489e-a476-efef0198485e
+[I 2025-10-19 01:02:05.956 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:04:06.063 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:06:06.208 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:06:34.447 ServerApp] Connecting to kernel 1c95112a-9733-4ade-be8a-3134cf6205e7.
+[I 2025-10-19 01:06:34.563 ServerApp] Connecting to kernel 2c4bcee4-c3d5-4f04-8b89-344d186ba833.
+[I 2025-10-19 01:06:34.610 ServerApp] Starting buffering for 1c95112a-9733-4ade-be8a-3134cf6205e7:990e9f3e-efd6-49a4-9830-49996d395deb
+[I 2025-10-19 01:06:34.650 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:06:34.801 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:5c841c8f-abcd-4dc5-8601-f36d26c0fa41
+[I 2025-10-19 01:06:34.871 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:08:06.316 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:10:06.452 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:14:06.559 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:22:06.688 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:24:05.152 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:34:05.292 ServerApp] Saving file at /PEFT-QLoRA-Axolotl/peft-qLoRA-Axolotl.ipynb
+[I 2025-10-19 01:42:35.978 ServerApp] Connecting to kernel 6320e992-0c15-4cb9-89df-9117283f988b.
+[I 2025-10-19 01:43:37.662 ServerApp] Starting buffering for 6320e992-0c15-4cb9-89df-9117283f988b:e4246b76-0d16-4475-a64c-1d831a307b41
+[I 2025-10-19 01:43:56.375 ServerApp] Starting buffering for 2c4bcee4-c3d5-4f04-8b89-344d186ba833:23fe998c-e1ae-4957-b260-7909dd039614
+[I 2025-10-19 03:12:02.158 ServerApp] Kernel shutdown: 1c95112a-9733-4ade-be8a-3134cf6205e7
+[I 2025-10-19 03:12:02.159 ServerApp] Kernel shutdown: 2c4bcee4-c3d5-4f04-8b89-344d186ba833
+[I 2025-10-19 03:12:02.207 ServerApp] Kernel shutdown: 6320e992-0c15-4cb9-89df-9117283f988b
+[I 2025-10-19 03:12:29.036 ServerApp] Creating new directory in 
+[I 2025-10-19 03:12:46.432 ServerApp] Creating new notebook in /FT-DPO
+[I 2025-10-19 03:13:58.314 ServerApp] Creating new file in /FT-DPO
+[I 2025-10-19 03:14:18.071 ServerApp] Saving file at /FT-DPO/dataset_preferencias_juridico.jsonl.txt
+[I 2025-10-19 03:15:15.623 ServerApp] Kernel started: 26c6fae7-5f61-449e-a296-61bc9b61f0b6
+[I 2025-10-19 03:15:16.034 ServerApp] Connecting to kernel 26c6fae7-5f61-449e-a296-61bc9b61f0b6.
+[I 2025-10-19 03:15:16.084 ServerApp] Starting buffering for 26c6fae7-5f61-449e-a296-61bc9b61f0b6:e17fa86f-212b-4bd0-8911-e533c5d07871
+[I 2025-10-19 03:15:16.110 ServerApp] Connecting to kernel 26c6fae7-5f61-449e-a296-61bc9b61f0b6.
+[I 2025-10-19 03:15:16.181 ServerApp] Connecting to kernel 26c6fae7-5f61-449e-a296-61bc9b61f0b6.
+[I 2025-10-19 03:15:44.504 ServerApp] Saving file at /FT-DPO/ft_dpo.ipynb
+[I 2025-10-19 03:17:44.642 ServerApp] Saving file at /FT-DPO/ft_dpo.ipynb
+[I 2025-10-19 03:19:44.758 ServerApp] Saving file at /FT-DPO/ft_dpo.ipynb
+[I 2025-10-19 03:21:44.899 ServerApp] Saving file at /FT-DPO/ft_dpo.ipynb
+[I 2025-10-19 03:22:10.394 ServerApp] Saving file at /FT-DPO/ft_dpo.ipynb
+[I 2025-10-19 21:10:46.755 ServerApp] Connecting to kernel 26c6fae7-5f61-449e-a296-61bc9b61f0b6.
+[I 2025-10-19 21:10:47.105 ServerApp] Kernel started: 593b32fc-eb7a-4a49-80e1-dd7c3cd78fef
+[I 2025-10-19 21:10:47.517 ServerApp] Connecting to kernel 593b32fc-eb7a-4a49-80e1-dd7c3cd78fef.
+[I 2025-10-19 21:10:47.545 ServerApp] Starting buffering for 593b32fc-eb7a-4a49-80e1-dd7c3cd78fef:b350c1ef-7127-4e5d-b6c2-727b5621a25c
+[I 2025-10-19 21:10:49.215 ServerApp] Connecting to kernel 26c6fae7-5f61-449e-a296-61bc9b61f0b6.
+[I 2025-10-19 21:10:49.303 ServerApp] Connecting to kernel 593b32fc-eb7a-4a49-80e1-dd7c3cd78fef.
+[I 2025-10-19 21:10:49.351 ServerApp] Starting buffering for 593b32fc-eb7a-4a49-80e1-dd7c3cd78fef:fefe105a-40c3-4358-a5ec-095b2f72ccdc

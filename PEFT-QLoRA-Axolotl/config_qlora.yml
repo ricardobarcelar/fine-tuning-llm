@@ -11,22 +11,15 @@ fp16: false
 
 # 3. Dataset e Formato do Prompt
 datasets:
-  - path: dataset_instrucoes_juridico-checkpoint.jsonl
-    type: alpaca # Formato de prompt de instrução. Axolotl sabe como montar a string.
-    
-    # Mapeamento das suas colunas para o formato Alpaca:
-    # O Axolotl vai procurar uma coluna 'instruction', mas a nossa se chama 'titulo'.
-    field_instruction: titulo 
-    # O Axolotl vai procurar uma coluna 'output', mas a nossa se chama 'conteudo'.
-    field_output: conteudo
-    # Se tivéssemos uma coluna de 'input' adicional, usaríamos 'field_input'.
+  - path: ./dataset_juridico_alpaca.jsonl
+    type: alpaca
 
 # 4. Hiperparâmetros do Treinamento
-output_dir: ./outputs/modelo_juridico_axolotl_lora
+output_dir: ./modelo_juridico_axolotl_lora
 sequence_len: 1024
-sample_packing: true # Empacota múltiplos exemplos curtos em uma única sequência para acelerar o treino.
+sample_packing: true # Empacota exemplos curtos em uma única sequência para acelerar o treino
 num_train_epochs: 5
-per_device_train_batch_size: 2
+micro_batch_size: 2
 gradient_accumulation_steps: 8
 learning_rate: 5e-5
 lr_scheduler_type: cosine
@@ -34,7 +27,7 @@ warmup_steps: 100
 weight_decay: 0.01
 
 # 5. Configuração de Avaliação e Logs
-val_set_size: 0.1 # Axolotl vai separar 10% do seu dataset para validação automaticamente.
+val_set_size: 0.1 # 10% do dataset para validação.
 eval_strategy: steps
 eval_steps: 100
 save_strategy: steps
